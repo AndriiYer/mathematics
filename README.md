@@ -1,1 +1,1 @@
-# mathematics
+# Mathematics for Computer Science and Introduction to Problem-Solving Techniques
